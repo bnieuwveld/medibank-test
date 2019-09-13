@@ -1,5 +1,3 @@
-# medibank
-
 ## Project setup
 ```
 npm install
